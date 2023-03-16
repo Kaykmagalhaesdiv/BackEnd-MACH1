@@ -1,0 +1,24 @@
+{
+  "name": "cadastro",
+  "version": "1.0.0",
+  "description": "Sistema de cadastro veicular no backend usando TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node dist/index"
+  },
+  "keywords": [
+    "typerscript",
+    "nodejs",
+    "npm"
+  ],
+  "author": "Turma de BackEnd",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/prompt-sync": "^4.2.0",
+    "typerscript": "^0.2.3"
+  },
+  "dependencies": {
+    "@types/node": "^18.15.3",
+    "prompt-sync": "^4.2.0"
+  }
+}
