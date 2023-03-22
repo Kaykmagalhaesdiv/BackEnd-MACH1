@@ -1,0 +1,19 @@
+{
+  "name": "atividade-3",
+  "version": "1.0.0",
+  "description": "atividade 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "node dist/index",
+    "build": "tsc"
+  },
+  "author": "kayk",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "typerscript": "^0.2.3"
+  },
+  "devDependencies": {
+    "@types/prompt-sync": "^4.2.0"
+  }
+}
